@@ -1,5 +1,7 @@
 ## Dashboard information
 
+The dashboard built here is a Tableau dashboard, so you need to have either Tableau installed locally or use the online version of it to open it.
+
 This is an interactive dashboard that can be drilled into with more charts being shown as you navigate it. For example if you click on the month of May on the first chart and select ABZ, then all other charts will be adjusted accordingly. 
 
 # Problem statement
